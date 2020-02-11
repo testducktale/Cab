@@ -1,3 +1,2 @@
-# Cab
-Ducktale Service
-Love Ducktale
+git checkout master
+git pull origin master
